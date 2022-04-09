@@ -10,9 +10,17 @@ Please see below Robot Chat clip.
 
 
 
+https://user-images.githubusercontent.com/95498383/162590010-a480ebed-4f70-40dc-b10b-ea6ee16f8bad.mp4
+
+
+
 ## Chat Robot with Lambda
 
 Please see below Robot Chat clip.
+
+
+
+https://user-images.githubusercontent.com/95498383/162590011-72dfe263-1a6e-41ba-88ba-fafffcbee4fc.mp4
 
 
 ## AWS Lambda with Python
